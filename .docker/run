@@ -3,7 +3,6 @@
 LOGFILE="/var/log/pypi_sync.log"
 
 (
-    cd $BASEDIR
     echo "===== SYNC STARTED AT $(date -R) ====="
     echo "> RUN bandersnatch mirror..."
     bandersnatch mirror
