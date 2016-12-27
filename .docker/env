@@ -1,0 +1,2 @@
+PYPI_MASTER = https://pypi.python.org
+BANDERSNATCH_WORKERS = 3
