@@ -1,2 +1,4 @@
 PYPI_MASTER = https://pypi.python.org
 BANDERSNATCH_WORKERS = 3
+LOG_NUM = 50
+ENABLE_UNSET_ENV_VARIBLES = false
